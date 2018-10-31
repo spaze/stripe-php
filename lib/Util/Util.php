@@ -112,6 +112,8 @@ abstract class Util
             \Stripe\Person::OBJECT_NAME => 'Stripe\\Person',
             \Stripe\Plan::OBJECT_NAME => 'Stripe\\Plan',
             \Stripe\Product::OBJECT_NAME => 'Stripe\\Product',
+            \Stripe\Radar\List::OBJECT_NAME => 'Stripe\\Radar\\List',
+            \Stripe\Radar\ListItem::OBJECT_NAME => 'Stripe\\Radar\\ListItem',
             \Stripe\Recipient::OBJECT_NAME => 'Stripe\\Recipient',
             \Stripe\RecipientTransfer::OBJECT_NAME => 'Stripe\\RecipientTransfer',
             \Stripe\Refund::OBJECT_NAME => 'Stripe\\Refund',
